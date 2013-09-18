@@ -8,6 +8,6 @@ I hope to track the bottlecaps I have.
 I'd love to divide them up into groups.
 
 Newcastle.
-Sierra Nevada.
+<p>Sierra Nevada.<p>
 Guinness.
 Sierra Nevada (Torpedo).
